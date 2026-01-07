@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bdxp",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "51bc27cd-ffca-4b78-b4bc-bf0a45912bea",
+			"database_name": "xp"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
